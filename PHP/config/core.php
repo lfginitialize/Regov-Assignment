@@ -9,4 +9,4 @@ session_start();
 date_default_timezone_set('asia/Kuala_Lumpur');
  
 // home page url
-$home_url="http://localhost/homepage/";
+$home_url="http://localhost/PHP/";
