@@ -1,0 +1,483 @@
+.margin-bottom-1em{ margin-bottom:1em; }
+.width-30-percent{ width:30%; }
+.margin-1em-zero{ margin:1em 0; }
+.width-30-percent{ width:30%; }
+.width-70-percent{ width:70%; }
+.margin-top-40{ margin-top:40px; }
+.text-align-center{ text-align:center; }
+ 
+div#blueimp-gallery div.modal{ overflow: visible; }
+
+.search-container {
+	display:inline-block;
+	float: center;
+}
+
+.search-container input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: none;
+}
+
+.search-container button {
+  float: center;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+ 
+.photo-thumb{
+    width:214px;
+    height:214px;
+    float:left;
+    border: thin solid #d1d1d1;
+    margin:0 1em 1em 0;
+}
+ 
+.form-signin{
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+ 
+.form-signin .form-control{
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+ 
+.form-signin .form-control:focus{ z-index: 2; }
+ 
+.form-signin input[type="text"]{
+    margin-bottom: -1px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+ 
+.form-signin input[type="password"]{
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+ 
+.account-wall{
+    margin-top: 40px;
+    padding: 40px 0px 20px 0px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.16);
+}
+ 
+.login-title{
+    color: #555;
+    font-size: 22px;
+    font-weight: 400;
+    display: block;
+}
+ 
+.profile-img{
+    width: 96px;
+    height: 96px;
+    margin: 0 auto 10px;
+    display: block;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+ 
+.select-img{
+    border-radius: 50%;
+    display: block;
+    height: 75px;
+    margin: 0 30px 10px;
+    width: 75px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+ 
+.select-name{
+    display: block;
+    margin: 30px 10px 10px;
+}
+ 
+.logo-img{
+    width: 96px;
+    height: 96px;
+    margin: 0 auto 10px;
+    display: block;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+
+.divTable {
+    display: table;
+    width: 100%;
+    margin: auto;
+}
+
+.divTableRow {
+    display: table-row;
+}
+
+.divTableHeading {
+    background-color: #EEE;
+    display: table-header-group;
+}
+
+.divTableCell, .divTableHead {
+    border: 1px solid #999999;
+    display: table-cell;
+    padding: 3px 10px;
+}
+
+.divTable1 {
+    display: table;
+    width: 800px;
+    padding-left: 90px;
+}
+
+.divTableHeadshort {
+    border: 1px solid #999999;
+    display: table-cell;
+    width: 5%;
+    padding: 8px 10px;
+    text-align: center;
+}
+
+.divTableHeadshort1 {
+    border: 1px solid #999999;
+    display: table-cell;
+    width: 5%;
+    padding: 8px 10px;
+    text-align: center;
+}
+
+.divTableCellshort {
+    border: 1px solid #999999;
+    display: table-cell;
+    width: 7%;
+    padding: 3px 10px;
+    font-weight: bold;
+    text-align:center;
+}
+
+.divTableCellmid {
+    border: 1px solid #999999;
+    display: table-cell;
+    width: 50%;
+    padding: 3px 10px;
+} 
+
+.divTableHeading {
+    background-color: #EEE;
+    display: table-header-group;
+    font-weight: bold;
+}
+
+.divTableFoot {
+    background-color: #EEE;
+    display: table-footer-group;
+    font-weight: bold;
+}
+
+.divTableBody {
+    display: table-row-group;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.divCat {
+    display: table;
+    width: 100%;
+}
+
+.divCatRow {
+    display: table-row;
+}
+
+.divCatHeading {
+    background-color: #EEE;
+    display: table-header-group;
+}
+
+.divCatCell, .divCatHead {
+    display: table-cell;
+    padding: 3px 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.divCatHeading {
+    background-color: #EEE;
+    display: table-header-group;
+    font-weight: bold;
+}
+
+.divCatFoot {
+    background-color: #EEE;
+    display: table-footer-group;
+    font-weight: bold;
+}
+
+.divCatBody {
+    display: table-row-group;
+}
+
+img.cat {
+    border: 5px solid #555;
+}
+
+.tableMerge {
+    display: table;
+    width: 100%;
+    height: 20px;
+}
+
+.tableMergeCartM {
+    display: table;
+    width: 950px;
+    height: 50px;
+}
+
+.tableMergeCart {
+    display: table;
+    width: 950px;
+    height: 50px;
+}
+
+.tableMergeAll {
+    display: table;
+    width: 600px;
+}
+
+.tableMergeB {
+    display: table;
+    width: 420px;
+}
+
+.tableMergeC {
+    display: table;
+    width: 700px;
+}
+
+.cellMerge {
+    display: table-cell;
+    border: 1px solid black;
+    width: 40%;
+    padding: 3px 10px;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+.cellMergeCart1 {
+    display: table-cell;
+    border: 1px solid black;
+    width: 40%;
+    padding: 3px 10px;
+    vertical-align: middle;
+}
+
+.cellMergeCart2 {
+    display: table-cell;
+    border: 1px solid black;
+    width: 12%;
+    padding: 3px 10px;
+    vertical-align: middle;
+}
+
+.cellMergeCart3 {
+    display: table-cell;
+    border: 1px solid black;
+    width: 20%;
+    padding: 3px 10px;
+    vertical-align: middle;
+}
+
+.cellMergeCart4 {
+    display: table-cell;
+    border: 1px solid black;
+    width: 16%;
+    padding: 3px 10px;
+    vertical-align: middle;
+}
+
+.cellMerge1 {
+    display: table-cell;
+    border: 1px solid black;
+    width: 60%;
+    padding: 3px 10px;
+    vertical-align: middle;
+}
+
+.cellMergeC {
+    display: table-cell;
+    border: 1px solid black;
+    width: 55%;
+    padding: 5px 13px 5px 13px;
+    vertical-align: middle;
+}
+
+.cellMergeC1 {
+    display: table-cell;
+    border: 1px solid black;
+    width: 45%;
+    padding: 5px 13px 5px 13px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.cellMergeC2 {
+    display: table-cell;
+    border: 1px solid black;
+    width: 27%;
+    padding: 5px 13px 5px 13px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.cellMergeF {
+    display: table-cell;
+    border: 1px solid black;
+    width: 50%;
+    padding: 5px 13px 5px 13px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.cellMergeC3 {
+    display: table-cell;
+    border: 1px solid black;
+    width: 24%;
+    padding: 5px 13px 5px 13px;
+    vertical-align: middle;
+    text-align: center;
+}
+.bodyMerge {
+    display: table-cell;
+    border: 1px solid black;
+    width: 40%;
+    padding: 3px 10px;
+    text-align: center;
+}
+
+.columnMerge {
+    display: table-cell;
+    border: 1px solid black;
+    width: 60%;
+    padding: 3px 10px;
+    vertical-align: middle;
+}
+
+.columnMergeCart {
+    display: table-cell;
+    border: 1px solid black;
+    width: 100%;
+    padding: 3px 10px;
+    vertical-align: middle;
+}
+
+img.ppage {
+    max-width: 100%;
+    max-height: 100%;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+img.catalog {
+    float: left;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    padding-bottom: 5px;
+}
+
+.listquan {
+    display: flex;
+}
+
+.quantxt {
+    display: inline-block;
+}
+
+.cellMergeflex {
+    display: flex;
+    border: 1px solid black;
+    width: 45%;
+    padding: 5px 13px 5px 13px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.buybut {
+    float: right;
+    vertical-align: middle;
+    text-align: center;
+    height: 20px;
+    padding-top: 7px;
+    padding-right: 20px;
+}
+
+.buybut2 {
+    float: right;
+    vertical-align: middle;
+    text-align: center;
+    height: 20px;
+    padding-bottom: 30px;
+    padding-right: 40px;
+}
+
+.buybut3 {
+    float: center;
+    vertical-align: middle;
+    text-align: center;
+    height: 20px;
+    padding-top: 7px;
+    padding-right: 40px;
+    font-weight: bold;
+}
+
+.desBox {
+    width: 1140px;
+    padding: 5px 13px 5px 30px;
+    border: 1px solid black;
+    border-top: 0px;
+    height: 100%;
+}
+
+td.viewP1 {
+    width: 50%;
+    padding: 10px 13px 10px 50px;
+    border: 1px solid grey;
+    font-weight:bold;
+}
+
+td.viewP {
+    width: 60%;
+    padding: 10px 13px 10px 30px;
+    border: 1px solid grey;
+}
+
+td.limage {
+    padding: 10px 10px 10px 10px;
+}
+
+table.tableviewP {
+    padding: 10px 13px 10px 30px;
+    border: 1px solid grey;
+    width: 700px;
+    margin:auto;
+}
